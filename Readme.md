@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=720&lines=Hi%2C+I'm+Mr.Batfleck.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=720&lines=Hi%2C+I'm+Mr.Batfleck." alt="Typing SVG" />
+  </a>
+</p>
+
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=720&lines=Hi%2C+I'm+Mr.Batfleck.)](https://git.io/typing-svg)-->
 ![batfleck](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
 
